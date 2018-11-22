@@ -1,0 +1,2 @@
+-- Tables are like dicctionaries in python or maps in C++
+-- Any value can be a key (usually are strings or numbers) except nil.
